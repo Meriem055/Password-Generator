@@ -20,7 +20,8 @@ WHEN all prompts are answered, THEN a password is generated that matches the sel
 WHEN the password is generated, THEN the password is either displayed in an alert or written to the page
 
 # Link to website:
+https://meriem055.github.io/Password-Generator/
 
 # Mock-up:
-![alt text] 
+![alt text](https://github.com/Meriem055/Password-Generator/blob/main/Password_generator_mockup.png)
 
